@@ -1,0 +1,13 @@
+Variables: compras lapices de colores, los guardas en algun lugar de tu cuarto y los buscas para usarlos cuando necesites pintar o hacer alguna actividad. 
+
+
+Strings: son letras, numeros, simbolos, que al unirse cobran sentido y se utilizan para indicarle a la compu que es lo que tiene que hacer. 
+
+
+Funciones (argumentos, return): es un conjunto de instrucciones necesarias para realizar una tarea, es como cuando la maestra te pide que pintes em un mapa cada pais con los colores de su bandera. solo debes seguir la instruccion. 
+
+
+Declaraciones if: tenes que tomar una desicion y de acuerdo a la que elijas tiene un efecto, por ejemplo si no vas al cole tenes una falta, y si vas no pasa nada tenes presente.
+
+
+Valores booleanos (true, false): sirven para hacer una comparacion, como jugar al verdadero o falso
